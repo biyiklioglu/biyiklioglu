@@ -1,3 +1,8 @@
+# Orhan Bıyıklıoğlu  
+[![Twitter Badge](https://img.shields.io/badge/-@biyiklioglu-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/biyiklioglu)](https://twitter.com/biyiklioglu) 
+[![Linkedin Badge](https://img.shields.io/badge/-biyiklioglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/biyiklioglu/)](https://www.linkedin.com/in/biyiklioglu/) 
+[![Medium Badge](https://img.shields.io/badge/-@biyiklioglu-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@biyiklioglu/)](https://medium.com/@biyiklioglu/)
+
 ### Hi there 👋
 
 <!--
